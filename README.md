@@ -1,1 +1,1 @@
-# operaci-nes_con_dos_n-meros
+# operaciones_con_dos_n-meros
